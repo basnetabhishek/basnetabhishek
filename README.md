@@ -53,7 +53,7 @@ I’m exploring how agents can work with external information and tools while ma
 
 ## 📚 A Little About Me
 
-My foundation is in business intelligence and analytics—forecasting, KPI reporting, and turning business needs into technical solutions. That experience shapes how I build AI systems: start with a meaningful problem, understand the data, and make the result useful to the person using it.
+My foundation is in business intelligence and analytics forecasting, KPI reporting, and turning business needs into technical solutions. That experience shapes how I build AI systems: start with a meaningful problem, understand the data, and make the result useful to the person using it.
 
 I’ve also helped teach Python, prompt engineering, and generative AI evaluation to technical and non-technical audiences. I enjoy making complex ideas understandable.
 
