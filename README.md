@@ -43,16 +43,6 @@ I build AI applications that turn business questions into practical tools—from
 
 ---
 
-## 📊 Business & Customer Analytics
-
-I connect data and AI with business decisions, with a focus on:
-
-- **Marketing & customers:** Campaign performance, A/B testing, and audience analysis.
-- **Business performance:** KPI reporting, forecasting, ROI, and variance analysis.
-- **Decision support:** Turning analytical findings into clear business insights.
-
----
-
 ## 🔬 Currently Exploring
 
 **Agent security · MCP security · Adversarial evaluation · Trust & provenance · Multi-agent reliability**
