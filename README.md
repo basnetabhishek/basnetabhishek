@@ -1,6 +1,6 @@
 # Hi, I'm Abhishek 👋
 
-**AI Engineer · Agentic AI · LLM Systems · Data & AI**
+**AI Engineer · Business Analyst· Data & AI**
 
 I build AI applications that turn business questions into practical tools—from agents that use tools and retrieve evidence to pipelines that turn data into executive insights. My background in business analytics keeps the work grounded in a simple goal: build something useful, make the results explainable, and give people a clear way to verify them.
 
